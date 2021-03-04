@@ -1,0 +1,22 @@
+.cart_div {
+    // display: flex;
+    // height: 100%;
+    position: relative;
+
+    img {
+        // margin: auto 0;
+        width: 18px;
+        height: 18px;
+
+    }
+
+    .total_cart {
+        // margin: auto 0;
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        font-size: 10px;
+    }
+
+    // line-height: 2;
+}

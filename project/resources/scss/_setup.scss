@@ -1,0 +1,12 @@
+.icon {
+    width: 16px;
+    height: 16px;
+    // margin: 0 auto;
+}
+
+.icon_trash {
+    @extend .icon;
+    // width: 16px;
+    // height: 16px;
+
+}

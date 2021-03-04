@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAAA,WAAW;ACAX,AAAA,KAAK,EAML,WAAW,CANL;EACF,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CAEf;;ADDD,aAAa;AEHb,AAAA,eAAe,CAAC;EACZ,MAAM,EAAE,KAAK;CAShB;;AAVD,AAGI,eAHW,CAGX,GAAG,CAAC;EACA,MAAM,EAAE,IAAI;EAEZ,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,MAAM;CACjB;;ACRL,AAAA,SAAS,CAAC;EAGN,QAAQ,EAAE,QAAQ;CAkBrB;;AArBD,AAKI,SALK,CAKL,GAAG,CAAC;EAEA,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CAEf;;AAVL,AAYI,SAZK,CAYL,WAAW,CAAC;EAER,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,GAAG;EACR,IAAI,EAAE,IAAI;EACV,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "../../resources/scss/app.scss",
+        "../../resources/scss/_setup.scss",
+        "../../resources/scss/categories/_categories.scss",
+        "../../resources/scss/shopingCart/_shopingCart.scss"
+    ],
+    "names": [],
+    "file": "app.css"
+}

@@ -1,0 +1,35 @@
+/* setup */
+.icon, .icon_trash {
+  width: 16px;
+  height: 16px;
+}
+
+/* content */
+.category_img_p {
+  height: 150px;
+}
+
+.category_img_p img {
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+}
+
+.cart_div {
+  position: relative;
+}
+
+.cart_div img {
+  width: 18px;
+  height: 18px;
+}
+
+.cart_div .total_cart {
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  font-size: 10px;
+}
+/*# sourceMappingURL=app.css.map */
